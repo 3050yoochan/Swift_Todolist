@@ -1,15 +1,5 @@
 # TodoList
-This is TodoList.
+할 일 앱을 개발하였습니다.
+이 앱은 "Do it! Swift"라는 책을 참고하여 개발하였으며, 여러 가지 저의 아이디어를 합산시켜 개발한 결과물입니다.
 
-
-# This is a H1
-## This is a H2
-- ### This is a H3
-- #### This is a H4
-- ##### This is a H5
-  - ###### This is a H6
-
-
-![Alt text](https://github.com/LucasDev86/resume/blob/master/images/android_0.png)
-
-
+# What is 
