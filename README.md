@@ -21,6 +21,8 @@ TodoList는 할 일 관리 앱으로, 생산성을 높여주는 앱입니다. �
 
 <img src="https://github.com/ycostdalp/TodoList/blob/main/%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1.png" width="300px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
+<img src="https://github.com/ycostdalp/TodoList/blob/main/%E1%84%8E%E1%85%AE%E1%84%80%E1%85%A1.png" width="300px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
 ## Closing
 기본에 충실한 앱입니다. 그러다 보니 매우 깔끔한 인터페이스를 자랑하며, 다른 앱과는 다른 빠름을 자랑합니다. 
 다른 개발자 분들도 이러한 앱을 개발하며 좋은 계기가 될 수 있기를 바랍니다.
