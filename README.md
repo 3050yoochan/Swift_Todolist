@@ -16,8 +16,8 @@ TodoList는 할 일 관리 앱으로, 생산성을 높여주는 앱입니다. �
 
 <img src="https://github.com/ycostdalp/TodoList/blob/main/%E1%84%86%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB.png" width="300px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
-<img src="https://github.com/ycostdalp/TodoList/blob/main/%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.png
-" width="300px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="https://github.com/ycostdalp/TodoList/blob/main/%E1%84%89%E1%85%A1%E1%86%A8%E1%84%8C%E1%85%A6.png" width="300px" height="600px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+
 
 ### AddViewController
 이 함수는 추가 화면, 그리고 수정 화면을 컨트롤합니다. 추가 화면과 수정 화면의 구분은 Segue를 통한 값의 변화에 따라 결정이 되며, 이러한 값을 이용해 버튼을 보여주거나 숨길 수 있습니다. 처음에는 추가 화면과 수정 화면의 뷰컨트롤러를 다르게 설정하려고 기획했으나, 개발하고 보니 비슷한 부분이 많아 코드를 통일화하여 간편화를 많이 하였습니다.
